@@ -23,6 +23,6 @@ export function getGameStatusElement() {
   return document.getElementById("gameStatus");
 }
 
-export function getreplayGameElement() {
+export function getReplayGameElement() {
   return document.getElementById("replayGame");
 }
